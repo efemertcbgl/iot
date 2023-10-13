@@ -1,49 +1,29 @@
-# IoT Yazılımları Nedir ve Ne Amaçla Kullanılır?
+# IoT Nedir?
+IoT (Internet Of Things) Nesnelerin İnterneti demektir. Kısaca "Dünyada açma kapama düğmesi olan, elektronik veya mekanik her şeyi(ama aklınıza gelebilecek her şeyi) birbirine ve dolayısıyla internete bağlama teknolojisidir". Nesnelerin İnterneti, fiziksel nesnelerin ağını açıklar. Bu ağda, sıradan ev nesnelerinden gelişmiş endüstriyel araçlara kadar çeşitli fiziksel nesneler yer alır. Bu nesneler, diğer cihaz ve sistemlerle veri bağlantısı ve paylaşımı amacıyla sensörler, yazılımlar ve diğer teknolojilerle donatılmıştır.
 
-IoT, Internet of Things (Nesnelerin İnterneti) kavramının kısaltmasıdır. IoT yazılımları, fiziksel nesnelerin internete bağlanması ve veri iletişimi için kullanılan yazılımlardır. Bu yazılımlar, dünyadaki nesnelerin (sensörler, cihazlar, makineler vb.) birbirleriyle ve internetle iletişim kurmalarını sağlar. Aşağıda, IoT yazılımlarının ne olduğunu ve ne amaçla kullanıldığını daha ayrıntılı bir şekilde inceleyelim.
+## IoT nasıl çalışır? 
+IoT, internete bağlı cihazlarla verilerin toplanmasını, gönderilmesini ve işlenmesini sağlar. Bu, gömülü sistemleri içerir, yani sensörler, işlemciler, haberleşme donanımı gibi donanımlar içerir. Bu sistemler, IoT ekosistemi içinde verilerin toplanmasını ve gönderilmesini sağlamak için kullanılır.
 
-## IoT Nedir?
+## IoT neden önemli?
+IoT, son birkaç yıldır en önemli teknolojilerinden biri oldu. Artık mutfak gereçleri, otomobiller ve thermostatları gömülü cihazlar aracılığıyla internete bağlayabiliriz, böylece insanlar süreçler ve nesneler arasında sorunsuz iletişim sağlayabilir.
 
-![IoT Nedir?](https://www.machbee.net/wp-content/webp-express/webp-images/uploads/2022/04/IoT-Nedir-Nasil-Kullanilir.png.webp)
+Fiziksel nesneler, düşük maliyetli hesaplama, bulut, büyük veri ve mobil teknolojiler üzerinden verileri, az insan müdahaleyle paylaşabilir ve toplayabilirler.
 
-IoT, nesnelerin (örneğin, termostatlardan, araçlara ve endüstriyel makinelerden) çeşitli sensörlerle donatılmasını ve bu sensörlerin verilerini internet aracılığıyla paylaşmasını sağlayan bir teknoloji ağıdır. Bu sayede, nesneler hem uzaktan izlenebilir hem de uzaktan kontrol edilebilir hale gelir.
+## IoT nin bazı artıları
+<ol>
+  <li>Herhangi bir konumdan, herhangi bir cihaz ile haberleşmeyi sağlar.</li>
+  <li>Bağlı elektronik cihazlar arasındaki iletişimi geliştirir.</li>
+  <li>Veri paketlerinin bir ağa bağlı olmasını sağlar, bu zaman ve para tasarufu anlamına gelir.</li>
+  <li>Birçok veri toplayarak hem kullanıcılara hem üreticilere fayda sağlar.</li>
+  <li>Verileri analiz ederek gereksiz bilgi yayılmasını önler.</li>
+  <li>İşleri otomatize hale getirerek işlerin kalitesini arttırır.</li>
+</ol>
 
-## IoT Yazılımları Nedir?
+## IoT nin bazı eksileri
+<ol>
+  <li>Bağlı cihaz sayısı arttıkça saldırı yüzeyini arttırır. Cihazlar arasında bilgi paylaşımı arttıkça bir hackerın bilgileri çalma potansiyeli artar.</li>
+  <li>Bağlı cihazların sayısı arttıkça cihazları yönetmek zorlaşır. Şirketler çok sayıda cihaz ile uğraşmak zorunda olabilir ve bu cihazlardan veri toplamak ve yönetmek zorlaşır.</li>
+  <li>Sistemde bir hata var ise diğer bağlı cihazları bozma potansiyeline sahip.</li>
+  <li>IoT için uluslararası bir standart olmadığından cihazlar arasındaki uyumluluk sorunlarını arttırır.Bu üreticilerin cihazlar arasında iletişim kurmasını zorlaştırır.</li>
+</ol>
 
-IoT yazılımları, IoT cihazlarının veri toplamasını, bu verileri işlemesini ve sonuçları başka cihazlarla veya kullanıcılarla paylaşmasını sağlar. Bu yazılımlar, genellikle bulut tabanlı hizmetler, uygulamalar ve yerel cihaz yazılımları olarak üç ana kategoriye ayrılabilir.
-
-![IoT Yazılımları](https://i.hizliresim.com/6ia4oho.png)
-
-### Bulut Tabanlı Hizmetler
-
-Bulut tabanlı hizmetler, IoT verilerinin depolanması, analizi ve uzaktan erişim için kullanılır. Bu hizmetler genellikle büyük veri analitiği, yapay zeka ve makine öğrenme teknikleri kullanarak değerli bilgileri çıkarmak için kullanılır.
-
-### Uygulamalar
-
-IoT uygulamaları, kullanıcıların IoT cihazlarına erişmesini, bunları kontrol etmesini ve verileri görmesini sağlar. Mobil uygulamalar veya web tabanlı arayüzler kullanılarak sunulabilirler.
-
-### Yerel Cihaz Yazılımları
-
-IoT cihazları üzerinde çalışan yerel yazılımlar, sensörlerin veri toplamasını ve diğer cihazlarla iletişim kurmasını sağlar. Bu yazılımlar, cihazın işlevselliğini kontrol eden önemli bir bileşendir.
-
-## IoT Yazılımlarının Kullanım Amaçları
-
-IoT yazılımları, birçok farklı amaç için kullanılır. İşte bazı temel kullanım alanları:
-
-### 1. Endüstriyel Otomasyon
-
-Sanayide, IoT yazılımları üretim makinelerini izlemek, verileri toplamak ve üretim süreçlerini optimize etmek için kullanılır.
-
-### 2. Akıllı Şehirler
-
-IoT, trafik yönetimi, enerji verimliliği, atık yönetimi ve daha fazlasını içeren akıllı şehir projelerinde kullanılır.
-
-### 3. Sağlık Hizmetleri
-
-IoT, sağlık cihazlarının veri toplaması, hastaları izlemesi ve sağlık profesyonellerine bilgi sağlamak için kullanılır.
-
-### 4. Tarım
-
-Çiftçiler, IoT cihazları kullanarak toprak koşullarını izleyebilir, sulamayı optimize edebilir ve ürün verimliliğini artırabilir.
-
-Bu README, IoT yazılımları hakkında temel bilgiler sunar. IoT'nin daha fazla ayrıntısına ve projelerinizde nasıl kullanabileceğinize dair daha fazla bilgi edinmek için çevrimiçi kaynakları inceleyebilirsiniz.
