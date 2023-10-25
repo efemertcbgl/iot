@@ -1,2 +1,2 @@
 # Devre Şeması
-![Devrve](https://i.hizliresim.com/f2vqbze.png)
+![Devre](https://i.hizliresim.com/f2vqbze.png)
