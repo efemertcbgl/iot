@@ -1,0 +1,23 @@
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+}
+
+#buton-div {
+    text-align: center;
+}
+
+.button-ac {
+    padding: 10px 20px;
+    font-size: 16px;
+    background-color: green;
+}
+
+.button-kapa {
+    padding: 10px 20px;
+    font-size: 16px;
+    background-color: red;
+}
